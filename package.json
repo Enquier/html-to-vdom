@@ -1,6 +1,6 @@
 {
-  "name": "html-to-vdom",
-  "version": "0.8.0",
+  "name": "@openmbee/html-to-vdom",
+  "version": "0.9.0",
   "description": "Converts html into a vtree",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com//html-to-vdom.git"
+    "url": "git://github.com/Enquier/html-to-vdom.git"
   },
-  "author": "Tim Beyer",
+  "author": "OpenMBEE Community",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TimBeyer/html-to-vdom/issues"
+    "url": "https://github.com/Enquier/html-to-vdom/issues"
   },
-  "homepage": "https://github.com/TimBeyer/html-to-vdom",
+  "homepage": "https://openmbee.org",
   "dependencies": {
     "ent": "2.2.0",
     "htmlparser2": "^6.1.0"
